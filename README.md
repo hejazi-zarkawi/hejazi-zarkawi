@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="assets/github-banner.png" alt="Mohammad Umar Al Hejazi - Software Developer" width="100%" />
+  <img src="banner.png" alt="Mohammad Umar Al Hejazi - Software Developer" width="100%" />
 </p>
 
 <h2 align="center">Hey there! 👋 I'm Mohammad Umar Al Hejazi</h2>
