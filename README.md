@@ -163,19 +163,6 @@ I'm continuously working on strengthening my backend engineering skills.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hejazi-zarkawi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hejazi-zarkawi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hejazi-zarkawi&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to connecting with fellow developers, discussing software engineering, collaborating on projects, and exploring interesting technical challenges.
